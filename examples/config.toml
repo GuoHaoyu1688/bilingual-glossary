@@ -1,0 +1,3 @@
+[gloss]
+data_dir = "./data/example"
+timezone = "Asia/Shanghai"
